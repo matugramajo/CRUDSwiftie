@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDSwiftie", "CRUDSwiftie\CRUDSwiftie.csproj", "{E8EF2F7B-BA7B-4E7E-87FD-062CB831F571}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8EF2F7B-BA7B-4E7E-87FD-062CB831F571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8EF2F7B-BA7B-4E7E-87FD-062CB831F571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8EF2F7B-BA7B-4E7E-87FD-062CB831F571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8EF2F7B-BA7B-4E7E-87FD-062CB831F571}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C779220-E786-4C1B-A69D-2DE93F29D6B8}
+	EndGlobalSection
+EndGlobal
